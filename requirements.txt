@@ -1,0 +1,12 @@
+Flask==2.2.5
+Flask-SocketIO==5.3.3
+pymongo==4.5.0
+openai==0.27.8
+huggingface-hub==0.17.2
+urllib3>=2.0.2
+six==1.16.0
+kafka-python==2.0.2
+email-validator==2.0.0.post2
+requests==2.31.0
+Flask>=2.0.0
+confluent-kafka==1.9.2
